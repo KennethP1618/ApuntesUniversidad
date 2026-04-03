@@ -89,6 +89,7 @@ q: reprobé francés
 p v q: es posible pasar matemáticas y no aprobar francés y viceversa.
 
 ###Condicional
+
 Forma: p -> q
 Se lee como "si p entonses q".
 p: antecedente o hipótesis.
