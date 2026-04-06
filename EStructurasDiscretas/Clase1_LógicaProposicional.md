@@ -31,7 +31,7 @@ Para las negaciones es válido cambiar la oración.
 q: Hace frío
 ~q: Hace calor
 
-##Conjunción
+## Conjunción
 Permite unir, conectar propociciones.
 Forma: p^q
 Se lee como "p y q"
@@ -59,7 +59,7 @@ Se lee como "p y q"
 |   F|   F|   V|   F|
 |   F|   F|   F|   F|
 
-###Disyunción
+### Disyunción
 Forma: p v q 
 Se lee "p ó q"
 
@@ -88,7 +88,7 @@ p: pasé matemáticas
 q: reprobé francés
 p v q: es posible pasar matemáticas y no aprobar francés y viceversa.
 
-###Condicional
+### Condicional
 
 Forma: p -> q
 Se lee como "si p entonses q".
