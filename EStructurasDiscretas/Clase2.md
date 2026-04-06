@@ -42,6 +42,7 @@ p<->q, si y solo si.
 |   V|  F |  F |
 |  F |   V|   F|
 |   F|   F|  V |
+
 ##Tautología
 Es una proposición que es verdadera para todos los valores posibles de sus variables.
 Ejemplo: (p->q)<->(~q->~p)
