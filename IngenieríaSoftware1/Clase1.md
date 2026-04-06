@@ -1,9 +1,7 @@
 # Clase 1
 **El software no se fabrica en el sentido clásico.**
+
 Uno de los problemas más importantes en la ingeniería de software es la crisis en el horizonte.
-
-------------
-
 >¿Qué es la crisis del horizonte?
 Se refiere a tratar la creciente demanda y consumo; cada vez el mercado exije más a los programadores. Hoy en dia saber programar no es suficiente, si no es el punto de partida.
 
