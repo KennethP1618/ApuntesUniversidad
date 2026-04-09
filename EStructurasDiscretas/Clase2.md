@@ -57,6 +57,7 @@ Ejemplo: (p->q)^(pvq)
 ## Equivalencia lógica
 Dos expreciones que son diferentes pero con resultados iguales.
 signo: ≡
+
 Ejemplo: (p->q)≡(~q->~p)
  >(p->q) y (~q->~p) tienen la misma tabla de la verdad.
  
