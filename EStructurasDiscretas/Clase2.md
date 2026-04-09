@@ -89,6 +89,7 @@ Doble negación
 ~~ p ≡ p
 ## DeMorgan
 El operador cambia de ^ a v , y viceversa.
+
 Ejemplo: 
 ~(pvq) ≡ ~p^~q
 
