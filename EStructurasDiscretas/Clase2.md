@@ -91,6 +91,7 @@ Doble negación
 El operador cambia de ^ a v , y viceversa.
 
 Ejemplo: 
+
 ~(pvq) ≡ ~p^~q
 
 ~(p^q) ≡ ~p v ~q
