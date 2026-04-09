@@ -63,16 +63,21 @@ Ejemplo: (p->q)≡(~q->~p)
 # Leyes de álgebra de proposiciones
 ## Idempotencia
 Dada una misma proposición con operador ^,v el resultado es la proposición
+
 pvp≡p
+
 p^p≡p
 ## Asociativa
 Reorganizar los paréntesis no cambia su valor
+
 (pvq)^r ≡ pv(q^r)
+
 (p^r)^r ≡ p^(q^r)
 >Solo se puede hacer esto, solo si los operadores son iguales.
 
 ## Conmutativa
 El orden de las proposiciones no importa.
+
 pvq ≡ qvp
 ## Distributiva
 pv(q^r) ≡ (pvq)^(pvr)
