@@ -62,8 +62,8 @@ se usa "~" para representar equivalencía
 
 ### Tipos de equivalencia
 - Reflexiva: para cada elemento "a" en S. Entonces a~a.
-- Simetría: si a"~"b entonces b"~"a.
-- Transitiva: si a"~"b y b~c entonces a"~"c.
+- Simetría: si a~b. Entonces  b~a.
+- Transitiva: si a~b y b~c entonces a~c.
 
 ## Producto carteciano
 Sea AxBxCx...
