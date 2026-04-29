@@ -8,12 +8,12 @@ AUA = A
 A∩A = A
 
 ## Asociativa
-(AUB)UC = AU(BUC)
-(A∩B)∩C = A∩(B∩C)
+- (AUB)UC = AU(BUC)
+- (A∩B)∩C = A∩(B∩C)
 
 ## Conmutativa
-AUB = BUA
-A∩B = B∩A
+- AUB = BUA
+- A∩B = B∩A
 
 ## Distributiva
 AU(B∩C) = (AUB)∩(AUC)
