@@ -46,30 +46,31 @@ Sea A = {1, 2, 3} y B = {a, b} entonces
 número de elementos = 6.
 Notación: n(AxB)= 6 o |AxB| =6
 - AxA = {(1, 1),(1,2),(1,3), (2,1), (2,2), (2,3),(3,1),(3,2),(3,3)}
-|AxA| = 9
+- |AxA| = 9
 
 ## Relaciones
 Sea A y B.  Una relación binaria R de A en B se asigna a cada pareja ordenada (a,b) en AxB.
 - a está relacionada con b. aRb
 - a no está relacionada con b. aR̶b
-A = {huevos,leche,maíz}
-B = {Vacas, cabras, gallinas}
-R = {(huevos,gallinas),(leche,vacas),(leche,cabras)}
+
+- A = {huevos,leche,maíz}
+- B = {Vacas, cabras, gallinas}
+- R = {(huevos,gallinas),(leche,vacas),(leche,cabras)}
 
 ## Relacion de equivalencia
 se usa "~" para representar equivalencía
 
 ### Tipos de equivalencia
 - Reflexiva: para cada elemento "a" en S. Entonces a~a.
-- Simetría: si a~b entonces b~a.
-- Transitiva: si a~b y b~c entonces a~c.
+- Simetría: si a"~"b entonces b"~"a.
+- Transitiva: si a"~"b y b~c entonces a"~"c.
 
 ## Producto carteciano
 Sea AxBxCx...
 Ejemplo:
-A = {1,2}; B = {a,b}; C = {x, y}
-AxBxC = {(1,a,x),(1,a,y),(1,b,x),(1,b,y),(2,a,x),(2,b,y),(2,b,x),(2,b,y)}
-|AxBxC| = 8
+- A = {1,2}; B = {a,b}; C = {x, y}
+- AxBxC = {(1,a,x),(1,a,y),(1,b,x),(1,b,y),(2,a,x),(2,b,y),(2,b,x),(2,b,y)}
+- |AxBxC| = 8
 >Se puede representar mediante un grafo.
 
 ## Funciones
