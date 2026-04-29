@@ -1,4 +1,4 @@
-#Algebra de conjuntos
+# Algebra de conjuntos
 Miércoles 29 de abril
 
 # Leyes
