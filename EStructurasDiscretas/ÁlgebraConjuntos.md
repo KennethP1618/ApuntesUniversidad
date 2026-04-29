@@ -4,8 +4,8 @@ Miércoles 29 de abril
 # Leyes
 
 ## Idempotencia
-AUA = A
-A∩A = A
+- AUA = A
+- A∩A = A
 
 ## Asociativa
 - (AUB)UC = AU(BUC)
@@ -16,15 +16,15 @@ A∩A = A
 - A∩B = B∩A
 
 ## Distributiva
-AU(B∩C) = (AUB)∩(AUC)
-A∩(BUC) = (A∩B)U(A∩C)
+- AU(B∩C) = (AUB)∩(AUC)
+- A∩(BUC) = (A∩B)U(A∩C)
 
 ## Involución
 (Ac)c = A
 
 ## De Morgan
-(AUB)c = Ac ∩ Bc
-(A∩B)c = Ac U Bc
+- (AUB)c = Ac ∩ Bc
+- (A∩B)c = Ac U Bc
 >El orden no interesa, si se está hablando de conjuntos
 Ejemplo: {3,5} = {5,3}
 
@@ -34,14 +34,18 @@ Conjunto ordenado, consiste en un conjunto de dos elementos donde uno designa el
 
 ## Conjunto producto
 Sea A y B conjuntos. El conjunti de todos las parejas ordenadas (a,b) en donde a∈A y b∈B se llama producto.
+
 AxB = {(a,b); a∈A, b∈B}
+
 AxA = A^2
+
 Los resultados se irán formando en pares ordenados.
+
 Sea A = {1, 2, 3} y B = {a, b} entonces
-AxB = {(1, a), (1, b), (2, a), (2, b), (3, a), (3, b)}
+- AxB = {(1, a), (1, b), (2, a), (2, b), (3, a), (3, b)}
 número de elementos = 6.
 Notación: n(AxB)= 6 o |AxB| =6
-AxA = {(1, 1),(1,2),(1,3), (2,1), (2,2), (2,3),(3,1),(3,2),(3,3)}
+- AxA = {(1, 1),(1,2),(1,3), (2,1), (2,2), (2,3),(3,1),(3,2),(3,3)}
 |AxA| = 9
 
 ## Relaciones
