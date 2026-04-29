@@ -75,8 +75,11 @@ Ejemplo:
 
 ## Funciones
 Cada elemento le corresponde un único valor.
+
 f: A->B
+
 Función de A en B, B es codominio y A el dominio.
+
 Ejemplo:
-Sea A = {a, b, c} y B = {r, s, t, u}
-f(a) = r, f(b) = u, f(c) = r, f(d) = s
+- Sea A = {a, b, c} y B = {r, s, t, u}
+- f(a) = r, f(b) = u, f(c) = r, f(d) = s
