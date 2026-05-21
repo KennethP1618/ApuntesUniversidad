@@ -39,17 +39,27 @@ Operación:
 
 Ejemplo 2:
 A = sale par
+
 B = Sale primo
+
 Se desea que salga par y primo
+
 A∩B = {2}
+
 P(A∩B) = 1/6 = 16.7%
+
 
 Ejemplo 3:
 A = sale par
+
 B = sale primo
+
 Se desea que no salga par, A^c
+
 A^c = {1, 3, 5}
+
 3 / 6 = 50%
+
 
 ## Propiedades
 - Si A y B son conjuntos excluyentes
