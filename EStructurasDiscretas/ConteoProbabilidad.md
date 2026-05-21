@@ -14,17 +14,24 @@ A^c, el evento no ocurre.
 
 Ejemplo 1:
 Se lanza un dado de 6 caras
+
 A = sale par
 B= sale primo
+
 Se desea AUB, par o primo
 A = {2, 4, 6}
 B = {2, 3, 5}
+
 y el 1 queda fuera de los 2 conjuntos.
+
 AUB = {2, 3, 4, 5, 6}
+
 cantidad de elementos de la unión = 5
 cantidad de elementos totales = 6(el dado completo)
+
 Operación:
 5/6 = 83.3%
+
 
 Ejemplo 2:
 A = sale par
