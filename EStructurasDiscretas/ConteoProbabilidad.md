@@ -8,9 +8,13 @@ P(E) = el número de resultado E / el número de resultados S = N(E) / N(S)
 E, especio muestral equivale a U conjunto universal.
 
 A, es un evento.
+
 AUB, almenos uno de los dos eventos A o B ocurre.
-A∩B, los dos eventos ocurren
+
+A∩B, los dos eventos ocurren.
+
 A^c, el evento no ocurre.
+
 
 Ejemplo 1:
 Se lanza un dado de 6 caras
