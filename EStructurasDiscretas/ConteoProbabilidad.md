@@ -16,7 +16,7 @@ A∩B, los dos eventos ocurren.
 A^c, el evento no ocurre.
 
 
-Ejemplo 1:
+### Ejemplo 1:
 Se lanza un dado de 6 caras
 
 A = sale par
@@ -37,7 +37,7 @@ Operación:
 5/6 = 83.3%
 
 
-Ejemplo 2:
+### Ejemplo 2:
 A = sale par
 
 B = Sale primo
@@ -49,7 +49,7 @@ A∩B = {2}
 P(A∩B) = 1/6 = 16.7%
 
 
-Ejemplo 3:
+### Ejemplo 3:
 A = sale par
 
 B = sale primo
